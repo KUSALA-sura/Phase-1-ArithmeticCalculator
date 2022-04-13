@@ -14,3 +14,5 @@ Eclipse/IntelliJ: An IDE to code for the application Java: A programming languag
 
 Following requirements should be met:
 The versions of the code should be tracked on GitHub repositories. The calculator should work properly.
+
+![Screenshot (76)](https://user-images.githubusercontent.com/85355371/163136541-748bbf5e-326b-43bb-ba76-23af698be659.png)
